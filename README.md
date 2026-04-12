@@ -1,5 +1,7 @@
 <div align="center">
 
+What’s a way to just be competent?
+
 ![c5tane](https://github.com/user-attachments/assets/92f0c5dc-4fd2-40b6-ab35-3df474ea415f)
 
 
