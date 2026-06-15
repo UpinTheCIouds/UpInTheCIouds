@@ -1,6 +1,6 @@
 <div align="center">
 
-Natsuki is my fav character but, whatever
+Natsuki is my fav character, but whatever
 
 <img width="400" height="224" alt="ad652d4db1421669ded8ea9b9b02d297" src="https://github.com/user-attachments/assets/82dc3ded-c584-4b35-a670-3db6c399440c" />
 
